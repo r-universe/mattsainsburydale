@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "NeuralEstimators"]
+	path = NeuralEstimators
+	url = https://github.com/cran/NeuralEstimators
 [submodule "testarguments"]
 	path = testarguments
 	url = https://github.com/cran/testarguments
